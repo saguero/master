@@ -1,0 +1,3 @@
+com\silvana\entity\Item.class
+com\silvana\entity\Order.class
+com\silvana\entity\JpaConfiguration.class

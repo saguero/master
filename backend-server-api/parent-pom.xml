@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+	
+	<modelVersion>4.0.0</modelVersion>
+	<version>1</version>
+	<groupId>com.silvana.proyecto</groupId>
+	<artifactId>mi-app</artifactId>
+	<packaging>pom</packaging>
+	
+	<modules>
+		<module>../backend-persistence-api</module>
+		<module>../backend-rest-api</module>
+		<module>../backend-server-api</module>
+	</modules>
+	
+</project>
